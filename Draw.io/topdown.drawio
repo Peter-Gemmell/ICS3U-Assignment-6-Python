@@ -27,7 +27,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="Pizza Total" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="2" value="perimeter_square" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="70" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" style="edgeStyle=none;rounded=0;html=1;" parent="1" source="3" target="9" edge="1">
@@ -51,10 +51,10 @@
                 <mxCell id="9" value="Get length_side" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Show length_side * 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="Show perimeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="perimeter_square = length_side * 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="13" value="perimeter = length_side * 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
